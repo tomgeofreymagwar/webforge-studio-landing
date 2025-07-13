@@ -4,17 +4,17 @@ Welcome to the official repository for **WebForge Studio**, a modern web design 
 
 ---
 
-## 🚀 What This Project Includes
+## What This Project Includes
 
-- ⚙️ **Responsive Landing Page** – Built with HTML, CSS, Tailwind (or Bootstrap)
-- 🖥️ **UI/UX Design Previews** – Professional layout for showcasing services
-- 📱 **Mobile Optimization** – Fast, adaptive, and touch-friendly
-- 🔒 **Secure Checkout Links** – Placeholder support for payment gateways
-- 📊 **Analytics & Case Study Sections** – Optional data blocks and reports
+-  **Responsive Landing Page** – Built with HTML, CSS, Tailwind (or Bootstrap)
+-  **UI/UX Design Previews** – Professional layout for showcasing services
+-  **Mobile Optimization** – Fast, adaptive, and touch-friendly
+-  **Secure Checkout Links** – Placeholder support for payment gateways
+-  **Analytics & Case Study Sections** – Optional data blocks and reports
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML5 + TailwindCSS (or Bootstrap)
 - Vanilla JS (or React-based optional version)
@@ -35,7 +35,7 @@ Welcome to the official repository for **WebForge Studio**, a modern web design 
 
 ---
 
-## 🧠 About WebForge Studio
+## About WebForge Studio
 
 **WebForge Studio** specializes in:
 - Responsive Websites
