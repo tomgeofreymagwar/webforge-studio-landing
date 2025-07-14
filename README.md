@@ -31,7 +31,7 @@ Welcome to the official repository for **WebForge Studio**, a modern web design 
 ## 📸 Screenshots
 
 ![secure checkout Preview](./screenshots/screenshot.jpg)
-![Secure checkout prevew](./screenshots/screensht1.jpg)
+![Secure checkout prevew](./screenshots/screenshot1.jpg)
 
 ---
 
