@@ -30,8 +30,8 @@ Welcome to the official repository for **WebForge Studio**, a modern web design 
 
 ## 📸 Screenshots
 
-![Homepage Preview](./screenshots/home.png)
-![Service Section](./screenshots/services.png)
+![secure checkout Preview](./screenshots/screenshot.jpg)
+![Secure checkout prevew](./screenshots/screensht1.jpg)
 
 ---
 
